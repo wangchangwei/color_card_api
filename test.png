@@ -1,0 +1,4 @@
+{
+  "details": "Traceback (most recent call last):\n  File \"/Users/changweiwang/Documents/code/color_card_api/api.py\", line 68, in generate_image\n    create_gradient_image(1080, 1920, color_item['colors'], output_path, markdown_content, background_color, direction)\nTypeError: create_gradient_image() takes from 4 to 6 positional arguments but 7 were given\n",
+  "error": "Internal server error: create_gradient_image() takes from 4 to 6 positional arguments but 7 were given"
+}

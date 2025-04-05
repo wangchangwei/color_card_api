@@ -1,0 +1,5 @@
+Pillow==10.2.0
+numpy==1.26.4
+markdown2==2.4.12
+beautifulsoup4==4.12.3
+Flask==3.0.2 
